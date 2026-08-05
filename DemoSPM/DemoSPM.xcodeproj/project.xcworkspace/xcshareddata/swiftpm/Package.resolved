@@ -1,0 +1,24 @@
+{
+  "originHash" : "8164e4265bb7f5559a17daa79497dd3297834ec6bc5df61f5a2f59987c0e79ac",
+  "pins" : [
+    {
+      "identity" : "demospmsdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/bachnd2k1/DemoSPMSDK",
+      "state" : {
+        "revision" : "a1bc6891582b4c32364c4a0dbb0f55dcd6bf1907",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "kingfisher",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/onevcat/Kingfisher.git",
+      "state" : {
+        "revision" : "410984bf301f4fa224fe56277b3f8672cc465c79",
+        "version" : "8.11.0"
+      }
+    }
+  ],
+  "version" : 3
+}
